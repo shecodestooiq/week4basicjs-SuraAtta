@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fPKjrLns)
 We provided a function for each task from 1 to 5, solve the tasks inside the functions.
 
 Task1: Write an if condition to check if a variable age is greater than or equal to 18. If true, log "You are eligible for voting," otherwise, log "You are not eligible for voting."
